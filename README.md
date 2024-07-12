@@ -4,14 +4,11 @@
 
 - URL: https://www.youtube.com/watch?v=wm5gMKuwSYk
 
-
-
 ### Notes
 
 - Keeping up with fast-paced advancements in AI and web development is crucial. In 2013, Facebook introduced React, revolutionizing web development. In 2023, official React documentation suggests using React-powered frameworks like Next.js. A special paid resource offers a comprehensive Next.js 13 eBook for free. Companies like Netflix, TikTok, and Nike have adopted Next.js for their websites, leading to increased job opportunities.
 
 - 📅 The evolution of React from its introduction by Facebook in 2013 to the current recommendation of using React-powered frameworks like Next.js.
-
 
 - 🏢 Companies like Netflix, TikTok, and Nike transitioning to Next.js for their websites, creating job opportunities.
 
